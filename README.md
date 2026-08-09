@@ -86,16 +86,16 @@ An AI-powered website builder that turns business ideas into polished, live site
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Musab1khan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Musab1khan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Musab1khan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="Top Languages" />
 
   <br /><br />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Musab1khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab1khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Musab1khan&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=Musab1khan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musab1khan&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;area=true" alt="Contribution Graph" />
 
 </div>
 
