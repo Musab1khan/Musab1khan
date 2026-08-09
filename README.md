@@ -1,113 +1,122 @@
-<h1 align="center">Hi, I'm Majid 👋</h1>
-<h3 align="center">Full Stack Developer | AI Product Builder | React + FastAPI Engineer</h3>
+<div align="center">
+
+# Hi, I'm Majid
+
+**Full Stack Developer · AI Product Builder · React + FastAPI**
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+for+real+users;Clean+UIs+%2B+scalable+backend+systems;React+%2B+FastAPI+%2B+AI+workflows;Ideas+%E2%86%92+production-ready+software)](https://github.com/Musab1khan)
+
+<br />
+
+[![Followers](https://img.shields.io/github/followers/Musab1khan?style=flat-square&label=Followers&labelColor=0d1117&color=238636)](https://github.com/Musab1khan?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Musab1khan&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Musab1khan)
+[![AI Genesis](https://img.shields.io/badge/Flagship-AI%20Genesis-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Musab1khan/ai_gensis)
+[![Live Demo](https://img.shields.io/badge/Live-ai--genesis.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-genesis.vercel.app)
+
+</div>
+
+---
+
+## About
+
+I build digital products with a focus on **clean UI**, **scalable backends**, and **production-ready execution**.
+
+My work sits at the intersection of AI platforms, SaaS workflows, automation, and modern web apps — turning rough ideas into software that looks polished and solves real problems.
+
+### Right now
+
+- Shipping **AI Genesis** — an AI website builder with chat-driven generation and real business features
+- Building **FastAPI + React** apps with strong UX and clear architecture
+- Exploring AI integrations, automation, analytics, SEO, and multilingual experiences
+
+---
+
+## Stack
 
 <p align="center">
-  <a href="https://github.com/Musab1khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=820&lines=Building+AI-powered+products+for+real+users;Creating+clean+UIs+and+scalable+backend+systems;React+%2B+FastAPI+%2B+Automation+%2B+AI+Workflows;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Musab1khan?tab=followers"><img src="https://img.shields.io/github/followers/Musab1khan?label=Followers&style=for-the-badge" /></a>
-  <a href="https://github.com/Musab1khan/ai_gensis"><img src="https://img.shields.io/badge/Flagship%20Project-AI%20Genesis-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ai-genesis.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Musab1khan&style=for-the-badge&color=0e75b6" alt="profile views" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <br />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
 
 ---
 
-## About Me
+## Featured — AI Genesis
 
-- I build polished digital products with a strong focus on **clean UI, scalable backend systems, and production-ready execution**.
-- My main interests are **AI-powered platforms, SaaS workflows, automation systems, and modern web applications**.
-- I enjoy turning rough ideas into products that look professional, solve real problems, and are ready to deploy.
+An AI-powered website builder that turns business ideas into polished, live sites.
 
-## Current Focus
-
-- Building **AI Genesis**, an AI-powered website builder with chat-driven generation and real business features
-- Shipping **FastAPI + React** applications with strong UX and scalable architecture
-- Exploring **AI integrations, automation flows, analytics, SEO, and multilingual experiences**
-- Improving product quality through **clean architecture, better performance, and polished design systems**
-
----
-
-## Core Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## Featured Work
-
-### AI Genesis
-
-An AI-powered website builder focused on turning business ideas into polished live websites.
-
-- Chat-driven website generation
-- Templates, SEO, analytics, QR, translation, marketing, and automation features
-- FastAPI backend with React and Vite frontend
-- Built with a production-oriented mindset
+| | |
+|---|---|
+| **What it does** | Chat-driven generation, templates, SEO, analytics, QR, translation, marketing & automation |
+| **Built with** | FastAPI backend · React + Vite frontend |
+| **Mindset** | Production-oriented — usable, deployable, and ready for real users |
 
 <p>
-  <a href="https://github.com/Musab1khan/ai_gensis"><img src="https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ai-genesis.vercel.app"><img src="https://img.shields.io/badge/Frontend-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://ai-gensis.onrender.com/docs"><img src="https://img.shields.io/badge/API-Docs-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+  <a href="https://github.com/Musab1khan/ai_gensis"><img src="https://img.shields.io/badge/Code-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+  <a href="https://ai-genesis.vercel.app"><img src="https://img.shields.io/badge/Frontend-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://ai-gensis.onrender.com/docs"><img src="https://img.shields.io/badge/API-Docs-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="API Docs" /></a>
 </p>
-
-## What I Bring
-
-| Strength | Focus |
-|---|---|
-| **Product Thinking** | Building features that feel useful, practical, and business-ready |
-| **Full Stack Delivery** | Shipping responsive frontends, solid APIs, and clean architecture |
-| **AI Integration** | Connecting real products with AI workflows, content systems, and automation |
-| **Execution Quality** | Focusing on polish, usability, scalability, and deployability |
 
 ---
 
-## GitHub Snapshot
+## What I bring
 
-<p align="center">
+| | |
+|:---|:---|
+| **Product thinking** | Features that feel useful, practical, and business-ready |
+| **Full-stack delivery** | Responsive frontends, solid APIs, clean architecture |
+| **AI integration** | Real products wired to AI workflows, content systems & automation |
+| **Execution quality** | Polish, usability, performance, and deployability |
+
+---
+
+## GitHub snapshot
+
+<div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=Musab1khan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Musab1khan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab1khan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <br /><br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Musab1khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Musab1khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab1khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+  <br /><br />
+
+  <img src="https://streak-stats.demolab.com?user=Musab1khan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## Working Style
+## Working style
 
-- I like building products that are **clean in architecture, strong in UI, and useful in real business scenarios**.
-- I care about **product polish, practical features, performance, and long-term maintainability**.
-- I enjoy combining **design, engineering, and AI** to create software that feels modern and professional.
+I like products that are **clean in architecture**, **strong in UI**, and **useful in real business scenarios**. Design, engineering, and AI together — software that feels modern and stays maintainable.
 
-## Connect
+---
 
-<p align="center">
-  <a href="https://github.com/Musab1khan"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Musab1khan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Musab1khan/ai_gensis"><img src="https://img.shields.io/badge/AI%20Genesis-Flagship%20Project-0f766e?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+### Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan)
+[![Repos](https://img.shields.io/badge/Repos-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan?tab=repositories)
+[![AI Genesis](https://img.shields.io/badge/AI%20Genesis-Flagship-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan/ai_gensis)
+
+<br />
+
+*Thanks for stopping by — feel free to explore the repos or reach out.*
+
+</div>
