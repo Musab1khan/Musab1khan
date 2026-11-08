@@ -8,8 +8,8 @@ React · FastAPI · AI
 
 [![GitHub followers](https://img.shields.io/github/followers/Musab1khan?style=flat-square&label=Followers&labelColor=0d1117&color=238636)](https://github.com/Musab1khan?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=Musab1khan&style=flat-square&color=0e75b6&label=Profile+views)](https://github.com/Musab1khan)
-[![AI Genesis](https://img.shields.io/badge/Featured-AI%20Genesis-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Musab1khan/ai_gensis)
-[![Live demo](https://img.shields.io/badge/Try%20it-Live%20demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-genesis.vercel.app)
+[![AI Genesis](https://img.shields.io/badge/AI_Genesis-Featured-111827)](https://github.com/Musab1khan/ai_gensis)
+[![Live demo](https://img.shields.io/badge/Live_Demo-Open-000000)](https://ai-genesis.vercel.app)
 
 </div>
 
@@ -71,8 +71,8 @@ An AI website builder that helps turn a business idea into a polished website th
 
 ### Explore my work
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-Visit%20my%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan?tab=repositories)
-[![AI Genesis](https://img.shields.io/badge/AI%20Genesis-View%20project-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musab1khan/ai_gensis)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Visit_my_profile-181717)](https://github.com/Musab1khan)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827)](https://github.com/Musab1khan?tab=repositories)
+[![AI Genesis](https://img.shields.io/badge/AI_Genesis-View_project-0f766e)](https://github.com/Musab1khan/ai_gensis)
 
 </div>
